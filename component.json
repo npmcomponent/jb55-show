@@ -3,7 +3,7 @@
   "repo": "jb55/show",
   "description": "Show an element",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["display", "show"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
