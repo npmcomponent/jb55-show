@@ -1,0 +1,12 @@
+{
+  "name": "jb55-show",
+  "description": "Show an element",
+  "version": "0.0.1",
+  "keywords": [
+    "display",
+    "show"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
